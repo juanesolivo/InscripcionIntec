@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jimif\\Documents\\Code\\DessarrolloSoftwareIII\\InscripcionIntec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6098DB74-553F-4CBA-81BC-F88D833A180F}|InscripcionIntec.csproj|c:\\users\\jimif\\documents\\code\\dessarrollosoftwareiii\\inscripcionintec\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6098DB74-553F-4CBA-81BC-F88D833A180F}|InscripcionIntec.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6098DB74-553F-4CBA-81BC-F88D833A180F}|InscripcionIntec.csproj|c:\\users\\jimif\\documents\\code\\dessarrollosoftwareiii\\inscripcionintec\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6098DB74-553F-4CBA-81BC-F88D833A180F}|InscripcionIntec.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 482,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jimif\\Documents\\Code\\DessarrolloSoftwareIII\\InscripcionIntec\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\jimif\\Documents\\Code\\DessarrolloSoftwareIII\\InscripcionIntec\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:15:30.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\jimif\\Documents\\Code\\DessarrolloSoftwareIII\\InscripcionIntec\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\jimif\\Documents\\Code\\DessarrolloSoftwareIII\\InscripcionIntec\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-25T01:49:00.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
